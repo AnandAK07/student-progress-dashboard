@@ -77,3 +77,117 @@ student-progress-dashboard/
 │
 ├── README.md
 └── package.json
+```
+
+---
+
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login](./screenshots/login.png)
+
+---
+
+### 📝 Register Page
+![Register](./screenshots/register.png)
+
+---
+
+### 📊 Dashboard Overview
+![Dashboard](./screenshots/dashboard1.png)
+
+---
+
+### 📈 Dashboard Analytics
+![Dashboard Analytics](./screenshots/dashboard2.png)
+
+---
+
+### 📚 Courses Page
+![Courses](./screenshots/courses.png)
+
+---
+
+### 👤 Profile Page
+![Profile](./screenshots/profile.png)
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone Repository
+
+```bash
+git clone https://github.com/AnandAK07/student-progress-dashboard.git
+```
+
+---
+
+### 2️⃣ Install Dependencies
+
+#### Frontend
+
+```bash
+cd client
+npm install
+```
+
+#### Backend
+
+```bash
+cd server
+npm install
+```
+
+---
+
+### 3️⃣ Configure Environment Variables
+
+Create a `.env` file inside the `server` folder.
+
+```env
+MONGO_URI=your_mongodb_connection
+JWT_SECRET=your_secret_key
+PORT=5000
+```
+
+---
+
+### 4️⃣ Run the Application
+
+#### Start Backend
+
+```bash
+cd server
+npm start
+```
+
+#### Start Frontend
+
+```bash
+cd client
+npm start
+```
+
+---
+
+## 🌟 Future Enhancements
+- Mentor Dashboard
+- Assignment Tracking
+- Notifications
+- Leaderboards
+- Dark Mode
+
+---
+
+## 👨‍💻 Author
+
+**Anand Kumar K**
+
+- GitHub: https://github.com/AnandAK07
+
+---
+
+## 📄 License
+
+This project is developed for educational and hackathon purposes.
