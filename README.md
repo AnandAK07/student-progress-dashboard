@@ -51,3 +51,29 @@ A full-stack web application that tracks student learning progress, course compl
 ---
 
 ## 📁 Project Structure
+
+```bash
+student-progress-dashboard/
+│
+├── client/
+│   ├── src/
+│   ├── public/
+│   └── package.json
+│
+├── server/
+│   ├── controllers/
+│   ├── routes/
+│   ├── models/
+│   ├── middleware/
+│   └── server.js
+│
+├── screenshots/
+│   ├── login.png
+│   ├── register.png
+│   ├── dashboard1.png
+│   ├── dashboard2.png
+│   ├── courses.png
+│   └── profile.png
+│
+├── README.md
+└── package.json
