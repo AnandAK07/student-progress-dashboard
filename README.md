@@ -7,46 +7,53 @@ A full-stack web application that tracks student learning progress, course compl
 ## 🚀 Features
 
 ### 👤 Authentication
-- User Registration (Student / Mentor)
-- User Login with JWT
-- Protected Routes
+
+* User Registration (Student / Mentor)
+* User Login with JWT
+* Protected Routes
 
 ### 📊 Dashboard
-- Completed lessons tracking
-- Time spent analytics
-- Course progress overview
-- Activity feed
+
+* Completed lessons tracking
+* Time spent analytics
+* Course progress overview
+* Activity feed
 
 ### 📚 Courses
-- List all courses
-- Course details with lessons
-- Progress tracking per course
+
+* List all courses
+* Course details with lessons
+* Progress tracking per course
 
 ### 📈 Visualizations
-- Progress trend chart
-- Completion pie/donut chart
+
+* Progress trend chart
+* Completion pie/donut chart
 
 ### 🧑 Roles
-- Student dashboard view
-- Mentor-ready architecture (extensible)
+
+* Student dashboard view
+* Mentor-ready architecture (extensible)
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-- React
-- React Router DOM
-- Tailwind CSS
-- Axios
-- Recharts
+
+* React
+* React Router DOM
+* Tailwind CSS
+* Axios
+* Recharts
 
 ### Backend
-- Node.js
-- Express.js
-- MongoDB + Mongoose
-- JWT Authentication
-- bcryptjs
+
+* Node.js
+* Express.js
+* MongoDB + Mongoose
+* JWT Authentication
+* bcryptjs
 
 ---
 
@@ -84,32 +91,46 @@ student-progress-dashboard/
 ## 📸 Screenshots
 
 ### 🔐 Login Page
+
 ![Login](./screenshots/login.png)
 
 ---
 
 ### 📝 Register Page
+
 ![Register](./screenshots/register.png)
 
 ---
 
 ### 📊 Dashboard Overview
+
 ![Dashboard](./screenshots/dashboard1.png)
 
 ---
 
 ### 📈 Dashboard Analytics
+
 ![Dashboard Analytics](./screenshots/dashboard2.png)
 
 ---
 
 ### 📚 Courses Page
+
 ![Courses](./screenshots/courses.png)
 
 ---
 
 ### 👤 Profile Page
+
 ![Profile](./screenshots/profile.png)
+
+---
+
+## 🔗 API Documentation
+
+API Documentation Link:
+
+https://drive.google.com/file/d/18HU3yXT0mjrO_eWtP2NpByKqoEeLcHlZ/view?usp=sharing
 
 ---
 
@@ -172,11 +193,12 @@ npm start
 ---
 
 ## 🌟 Future Enhancements
-- Mentor Dashboard
-- Assignment Tracking
-- Notifications
-- Leaderboards
-- Dark Mode
+
+* Mentor Dashboard
+* Assignment Tracking
+* Notifications
+* Leaderboards
+* Dark Mode
 
 ---
 
@@ -184,7 +206,7 @@ npm start
 
 **Anand Kumar K**
 
-- GitHub: https://github.com/AnandAK07
+* GitHub: https://github.com/AnandAK07
 
 ---
 
